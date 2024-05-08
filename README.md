@@ -9,3 +9,9 @@ You can play the game at: https://githubschool.github.io/github-games/
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
 bambio en nuevo branch
+
+
+para renombrar
+para renombrar usar git mv nombreAnterior nombreNuevo
+para revertir cambio git revert {ID_COMMIT} desde el web
+usar
